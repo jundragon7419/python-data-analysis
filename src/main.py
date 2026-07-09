@@ -11,7 +11,7 @@ join하거나 EDA 단계에서 읽는 속도가 더 빠르다.
 from pathlib import Path
 import pandas as pd
  
-PROCESSED_DIR = Path("reports")
+PROCESSED_DIR = Path("data/processed/weather_by_city")
  
  
 def csv_to_parquet(csv_path: Path, parquet_path: Path | None = None) -> Path:
