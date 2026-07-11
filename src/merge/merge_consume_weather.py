@@ -9,7 +9,7 @@
 
 입력:
     data/processed/consume_by_city/{도시명}.parquet  (9개)
-    data/raw/weather/weather_{권역명}.parquet         (남부/동부/북부 3개)
+    data/processed/weather_by_region/weather_{권역명}.parquet (남부/동부/북부 3개)
 
 출력:
     data/processed/consume_weather_merged.parquet  (9개 도시 통합 + 날씨 join 완료)
