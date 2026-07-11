@@ -1,0 +1,21 @@
+[33mb963413[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{0}: rebase (abort): returning to refs/heads/main
+[33mb963413[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{1}: rebase (abort): returning to refs/heads/main
+[33mb963413[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{2}: checkout: moving from 394179763bac8b4d92af94da72973e8256234581 to main
+[33m3941797[m HEAD@{3}: commit: EDA 3차 주석 처리
+[33mb65453a[m HEAD@{4}: commit: EDA 2차 주석 처
+[33mc1e7e99[m HEAD@{5}: pull origin main --rebase (start): checkout c1e7e992d6e706838f5754283dacccda0e9dbc0d
+[33mb963413[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{6}: commit: EDA 2차 주석 처리
+[33m3dc1bff[m HEAD@{7}: commit: EDA 1차 주석 처리
+[33m803c3c4[m HEAD@{8}: commit: 날씨, 소비 병합 코드 주석 추가 및 수정
+[33m55f718e[m HEAD@{9}: commit: 날씨_전처리 코드 주석 추가 및 수정
+[33m24e045b[m HEAD@{10}: pull: Fast-forward
+[33m2a5be4c[m HEAD@{11}: commit: 코드 정제 수정
+[33m715254a[m HEAD@{12}: pull: Fast-forward
+[33mf55f8fd[m HEAD@{13}: pull: Fast-forward
+[33me243fbc[m HEAD@{14}: checkout: moving from dcccd696b8ed5a796d316c9efeacbfdd2ae82f58 to main
+[33mdcccd69[m HEAD@{15}: checkout: moving from main to dcccd69
+[33me243fbc[m HEAD@{16}: pull: Fast-forward
+[33m79121e5[m HEAD@{17}: commit: csv 파일 parquet으로 변환
+[33mdcccd69[m HEAD@{18}: commit: 기상,트렌드 데이터 추가
+[33mc6113f7[m HEAD@{19}: pull: Fast-forward
+[33m768286d[m HEAD@{20}: clone: from https://github.com/jundragon7419/python-data-analysis.git
